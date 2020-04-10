@@ -1,0 +1,10 @@
+{
+  "name": "schooldb",
+  "connector": "mysql",
+  "url": "",
+  "host": "localhost",
+  "port": 3306,
+  "user": "root",
+  "password": "sa@1010",
+  "database": "school-admin"
+}
