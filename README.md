@@ -2,7 +2,7 @@
 
 [![LoopBack](https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png)](http://loopback.io/)
 
-# prerequisite to run app successfully
+# prerequisites to run app successfully
 
 1- you should have or install XAMPP for MySQL from: https://www.apachefriends.org/index.html
 
